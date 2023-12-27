@@ -1,0 +1,2 @@
+In this project, Optisystem simulation software of Optiwave has been used to carry out simulations.
+The result representations have been described that the proposed hybrid network is performing well and it is suitable for FSO communication with bit rate of 5 Gbps during all seasons. 
